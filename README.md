@@ -3,9 +3,10 @@
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
-source setup.sh
+__init__.py
+__init__.py
+
+
 ```
 
 # Configuración en Windows
